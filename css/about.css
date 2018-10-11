@@ -6,12 +6,19 @@
 #aboutMe{
     font-size: 40px;
     color: white;
+    width:80%;
   
-    display: inline;
+    padding: 1%;
 }
 
-#Contact{
+#Contact , #control-group, #form-group{
     width: 50vw;
+    margin-top: -678px;
+    margin-right: 500px;
+    
+}
+.col-md-8{
+    margin-left:800px;
 }
 
 

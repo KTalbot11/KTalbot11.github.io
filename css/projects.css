@@ -3,3 +3,9 @@
     width: 100%;
     border-radius:25%;
 }
+
+#DiabloProjectPic {
+    overflow: hidden;
+    width: 125%;
+    border-radius: 25%;
+}
