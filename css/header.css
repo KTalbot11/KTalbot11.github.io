@@ -1,7 +1,13 @@
 #jumboStyle{
-    background: url('https://upload.wikimedia.org/wikipedia/commons/7/7b/This_is_fine.png') no-repeat center;
+    background: url('https://i.pinimg.com/originals/72/46/a5/7246a572994d2ffefea8cd32d6b8ce6f.jpg') no-repeat center;
     background-size: cover;
     color: white;
     text-align: center;
+    
 
+}
+
+.lead{
+    margin-left: -0px;
+    margin-bottom: 50px;
 }
